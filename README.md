@@ -47,11 +47,3 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=rails,ts,react,nextjs,java,cs" />
 </p>
-
-<br>
-
-<h1 align="center">Portfolio</h1>
-
-<p align="center">
-  <a href="https://www.code-works.tech/">https://www.code-works.tech/</a>
-</p>
